@@ -8,4 +8,4 @@ Mình mong muốn mọi người học lập trình sẽ cùng nhau làm những
 Hy vọng anh em tham gia nhiệt tình :D 
 ##
 
-***Note:*** Do mình mới bắt đầu học lập trình với ngôn ngữ Python nên mình xin chia sẻ một số bài mình là làm trong thư mục Python, mong anh em góp ý! Hy vọng sẽ có nhiều người chia sẻ ở các ngôn ngữ khác nữa!
+***Note:*** Do mình mới bắt đầu học lập trình với ngôn ngữ Python nên mình xin chia sẻ một số bài mình đã làm trong thư mục Python, mong anh em góp ý! Hy vọng sẽ có nhiều người chia sẻ ở các ngôn ngữ khác nữa!
