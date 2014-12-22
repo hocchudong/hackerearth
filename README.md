@@ -22,14 +22,14 @@ Với trình duyệt này, khi muốn truy cập vào một website:
 Yêu cầu đề bài:
 - input:
     
-    Dòng đầu tiên sẽ là số lần nhập vào (n).
-    Tiếp theo sẽ nhập n tên đầy đủ của trang web (www.google.com) tương ứng với n dòng
-    Mọi trang web nhập vào đều bắt đầu bằng www. và có phần mở rộng là .com
+        Dòng đầu tiên sẽ là số lần nhập vào (n).
+        Tiếp theo sẽ nhập n tên đầy đủ của trang web (www.google.com) tương ứng với n dòng
+        Mọi trang web nhập vào đều bắt đầu bằng www. và có phần mở rộng là .com
 
 - output:
     
-    Hiển thị tỉ lệ giữa số chữ cái phải nhập vào trên tên đầy đủ của trang web.
-    Ví dụ: input = www.google.com => output = 7/14
+        Hiển thị tỉ lệ giữa số chữ cái phải nhập vào trên tên đầy đủ của trang web.
+        Ví dụ: input = www.google.com => output = 7/14
 
 Yêu cầu về code:
 
