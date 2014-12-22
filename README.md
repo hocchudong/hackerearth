@@ -29,7 +29,19 @@ Yêu cầu đề bài:
 - output:
     
         Hiển thị tỉ lệ giữa số chữ cái phải nhập vào trên tên đầy đủ của trang web.
-        Ví dụ: input = www.google.com => output = 7/14
+
+Ví dụ:
+
+    input:
+    2
+    www.google.com
+    www.hackerearth.com
+###
+    output:
+    7/14
+    11/19
+
+
 
 Yêu cầu về code:
 
