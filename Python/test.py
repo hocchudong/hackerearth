@@ -1,19 +1,27 @@
-a = input()
-b = raw_input().split()
-for i in range(0,len(b)):
-	b[i] = int(b[i])
+# Reverse Primes
+from math import sqrt
 
-dem = 1
+def check_prime(x):
+    a = 2
+    while a <= sqrt(x):
+        if not x % a:
+            return False
+        else:
+            a += 1
+    return True
 
-b.sort()
-"""c = b[::-1]
 
-for i in range(len(c)):
-	for j in range(dem):
-		if c[j] == 0:
-			continue
-		else:
-			c[j] -= 1
-	dem += 1
-	
-print dem + 2"""
+tem = []
+k = 3
+while k < 10**15:
+    if check_prime(k) == True:
+        tem.append(k)
+    else:
+        k += 1
+
+for i in tem:
+    if str(i)[::-1] in tem and i < int(str(i)[::-1]):
+        print i
+
+
+

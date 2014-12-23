@@ -3,9 +3,7 @@
 a = input()
 fn = []
 for i in range(a):
-    a = raw_input().split()
-    for i in range(len(a)):
-        a[i] = int(a[i])
+    a = list(map(lambda x: int(x), raw_input().split()))
 
     x = a[0] / a[2]
     y = a[1] / a[2]

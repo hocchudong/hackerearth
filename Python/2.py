@@ -6,7 +6,6 @@ for i in range(a):
     b = input()
     abc.append(b)
 
-print abc
 for i in abc:
     kq = 1
     for x in range(1,i+1):

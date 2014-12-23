@@ -1,10 +1,7 @@
 # Gotta catch 'em all!
 
 a = input()
-b = raw_input().split()
-
-for i in range(0,len(b)):
-    b[i] = int(b[i])
+b = list(map(lambda x: int(x), raw_input().split()))
 
 dem = 1
 
